@@ -1,0 +1,10 @@
+Package: myAnimalINLAfixes
+Type: Package
+Title: Small AnimalINLA fixes
+Version: 1.0
+Date: 2013-10-01
+Author: Facundo Muñoz
+Maintainer: Facundo Muñoz <facundo.munoz@orleans.inra.fr>
+Description: Reflecting some INLA updates into the code
+License: GPL (>= 2)
+Encoding: UTF-8
