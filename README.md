@@ -1,7 +1,13 @@
 myAnimalINLAfixes
 =================
 
-Fixed version of animal.inla() function from AnimalINLA package
+### Update: March 20 2014
+These fixes have been incorporated into AnimalINLA v1.3,
+which makes this package unnecessary.
+See reference below.
+
+
+### Fixed version of animal.inla() function from AnimalINLA package
 
 Updated some INLA syntax. Namely, changed every occurrence of
 - control.data = list(hyper = list(theta = ...))

@@ -1,7 +1,7 @@
 Package: myAnimalINLAfixes
 Type: Package
 Title: Small AnimalINLA fixes
-Version: 1.0
+Version: 1.0-1
 Date: 2013-10-01
 Author: Facundo Muñoz
 Maintainer: Facundo Muñoz <facundo.munoz@orleans.inra.fr>
